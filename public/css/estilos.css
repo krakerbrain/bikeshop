@@ -1,0 +1,20 @@
+select {
+    margin-right: 10px;
+}
+
+#btnConsulta{
+    width: 100px;
+    height: 50%;
+    margin: 30px auto;
+}
+
+#botonesLista{
+    display: flex;
+    justify-content: center;
+}
+
+#botonesLista button{
+    margin: 10px;
+    width: 70px;
+    
+}
